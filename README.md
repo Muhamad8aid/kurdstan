@@ -1,0 +1,2 @@
+# kurdstan
+Python
